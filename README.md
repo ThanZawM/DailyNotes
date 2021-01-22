@@ -1,16 +1,14 @@
 # DailyNotes
 
-A new Flutter project.
+## Sample usage and output
 
-## Getting Started
+<img src="output_images/p1.jpg" alt="image" width="300"/> <img src="output_images/p1_1.jpg" alt="image" width="300"/> <img src="output_images/p1_2.jpg" alt="image" width="300"/>
+<img src="output_images/p1_3.jpg" alt="image" width="300"/>
 
-This project is a starting point for a Flutter application.
+<img src="output_images/p1_4.jpg" alt="image" width="300"/> <img src="output_images/p2.jpg" alt="image" width="300"/> <img src="output_images/p2_1.jpg" alt="image" width="300"/>
+<img src="output_images/p3.jpg" alt="image" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="output_images/p4.jpg" alt="image" width="300"/> <img src="output_images/p5.jpg" alt="image" width="300"/> <img src="output_images/p6.jpg" alt="image" width="300"/>
+<img src="output_images/p7.jpg" alt="image" width="300"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="output_images/p8.jpg" alt="image" width="300"/>
